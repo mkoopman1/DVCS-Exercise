@@ -81,6 +81,7 @@
                 <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application By Matthew Koopman</p>
                 <p> I like music n stuff</p>
                 <h1>HEY THERE!</h1>
+                <h2>HI DON</h2>
             </footer>
         </div>
     </form>
